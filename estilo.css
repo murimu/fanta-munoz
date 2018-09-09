@@ -109,7 +109,7 @@ video{
 	min-height:300px;
 	text-align:left;
 	background-color:black);
-	background-image:url('media/dupla-01.JPG');
+	background-image:url('media/dupla-01.jpg');
 	background-position:top right;
 	background-repeat:no-repeat;
 	background-size:auto 100%;
@@ -130,7 +130,7 @@ color:rgba(142, 39, 130);
 	min-height:300px;
 	text-align:right;
 	background-color: black;
-	background-image:url('media/dupla-02.JPG');
+	background-image:url('media/dupla-02.jpg');
 	background-position:top left;
 	background-repeat:no-repeat;
 	background-size:auto 100%;
@@ -163,7 +163,7 @@ color:rgba(30,209,205);
 	width:23%;
 	margin:1%;
 	color:#333;
-	background:white;
+	background:color:rgba(255,255,255);
 	box-shadow:0 0 5px rgba(0,0,0,.1);
 }
 
@@ -197,7 +197,7 @@ color:rgba(30,209,205);
 }
 
 .item h6{
-  color:rgba(30,209,205);
+    color:rgba(30,209,205);
 	font-size:1em;
 	letter-spacing:0.025em;
 	margin:5% 5% 6% 5%;
